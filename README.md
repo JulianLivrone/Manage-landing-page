@@ -57,7 +57,7 @@ Users should be able to:
 
 ### What I learned
 
-First project where I worked with HTML, CSS and JavaScript yo make a full web page
+First project where I worked with HTML, CSS and JavaScript yo make a full web page. Followed Kevin Powell videos on how to make this web page to enhance my skills and knowledge
 
 ### Continued development
 
